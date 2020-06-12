@@ -1,0 +1,42 @@
+
+
+body{
+  background-color: lightblue;
+  background-repeat:
+
+  color: White;
+}
+
+h1{
+  color: green;
+}
+
+h2{
+  color: Red;
+}
+
+
+.post{
+  color:red;
+border: 50PX SOLID lightyellow ;
+padding-left: 50PX;
+padding-right: 50PX;
+padding-top: 50PX;
+padding-bottom: 100PX;
+margin-left: 200PX;
+margin-right: 200PX;
+margin-top: 30PX;
+margin-bottom: 30PX;
+}
+
+.date{
+  color: blue;
+}
+
+#about{
+  direction: ltr;
+}
+
+#image{
+  align-items: center;
+}
